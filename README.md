@@ -1,6 +1,6 @@
 # BanglaNewsClassifier: A Hybrid Machine Learning Approach for High-Accuracy News Classification in Low-Resource Bengali Language  
 
-!!! warning  
+ 
     **Status:** This manuscript is currently under review at *PLOS ONE*.  
 
 !!! warning  
